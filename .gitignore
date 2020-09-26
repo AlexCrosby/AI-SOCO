@@ -1,0 +1,9 @@
+/venv/
+/.idea/
+*.joblib
+/data_dir2/
+/models/
+/data_dir/
+*.temp
+*.mm
+*.h5
